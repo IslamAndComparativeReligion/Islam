@@ -1,0 +1,134 @@
+<div wfd-id="6">
+  <div class="separator" style="clear: both; text-align: left;" wfd-id="11">
+    <span
+      style="background-color: #274e13; color: red; font-family: Fredericka the Great; font-size: xx-large;"
+      ><b>(Click on any of the topic to directly go on to that topic)</b></span
+    >
+  </div>
+  <div class="separator" style="clear: both; text-align: left;" wfd-id="11">
+    <span style="background-color: black; color: red; font-family: trebuchet;"
+      >👇👇👇</span
+    >
+  </div>
+  <div class="separator" style="clear: both; text-align: left;" wfd-id="11">
+    <span style="background-color: black; color: red; font-family: trebuchet;"
+      ><div
+        style='color: black; font-family: "times new roman"; text-align: right;'
+        wfd-id="0"
+      >
+        <br />
+      </div>
+      <div wfd-id="6">
+        <div wfd-id="6">
+          <span style="font-size: x-large;"
+            ><font color="#cc0000" face="verdana"
+              ><a
+                href="https://islamandcomparativereligion.blogspot.com/2020/07/scientific-errors-or-man-inserted.html"
+                target="_blank"
+                ><font color="#cc0000">(1)</font></a
+              ></font
+            ><font color="#274e13" face="georgia"
+              ><a
+                href="https://islamandcomparativereligion.blogspot.com/2020/07/scientific-errors-or-man-inserted.html"
+                target="_blank"
+                ><b>Science in Quran with detail proof&nbsp;</b></a
+              ></font
+            ></span
+          >
+        </div>
+        <div wfd-id="5">
+          <span style="font-size: x-large;"><br /></span>
+        </div>
+        <div wfd-id="5">
+          <span style="font-size: x-large;"
+            ><a
+              href="https://islamandcomparativereligion.blogspot.com/2020/07/my-missions-ideas-and-opinions-as-muslim.html"
+              style="font-family: verdana;"
+              target="_blank"
+              ><font color="#cc0000">(2)</font></a
+            ><font color="#cc0000" style="font-family: verdana;"
+              ><a
+                href="https://islamandcomparativereligion.blogspot.com/2020/07/my-missions-ideas-and-opinions-as-muslim.html"
+                target="_blank"
+                >My Missions, Ideas, and Opinions&nbsp;</a
+              ></font
+            ></span
+          >
+        </div>
+        <div wfd-id="5">
+          <span style="font-size: x-large;"><br /></span>
+        </div>
+        <div wfd-id="2">
+          <span style="font-size: x-large;"
+            ><span wfd-id="4"
+              ><font color="#cc0000" face="verdana"
+                ><a
+                  href="https://islamandcomparativereligion.blogspot.com/2020/06/proof-from-hindu-scriptures-that-you.html"
+                  target="_blank"
+                  ><font color="#cc0000">(3)</font></a
+                ></font
+              ></span
+            ><span wfd-id="3"
+              ><font color="#274e13" face="georgia"
+                ><a
+                  href="https://islamandcomparativereligion.blogspot.com/2020/06/proof-from-hindu-scriptures-that-you.html"
+                  target="_blank"
+                  >Proof From Hindu Scriptures That You Are Not Following Your
+                  Scriptures Properly</a
+                ></font
+              ></span
+            ></span
+          >
+        </div>
+        <div wfd-id="2">
+          <span style="font-size: x-large;" wfd-id="3"><br /></span>
+        </div>
+        <div wfd-id="1">
+          <span style="font-size: x-large;"
+            ><font face="verdana"
+              ><a
+                href="https://islamandcomparativereligion.blogspot.com/2020/06/scientific-error-or-man-ejected.html"
+                target="_blank"
+                ><font color="#cc0000">(4)</font></a
+              ></font
+            ><font color="#cc0000" face="georgia"
+              ><a
+                href="https://islamandcomparativereligion.blogspot.com/2020/06/scientific-error-or-man-ejected.html"
+                target="_blank"
+                >Scientific Errors Or Man Inserted Statements in Current
+                Hinduism Scriptures.</a
+              ></font
+            ></span
+          >
+        </div>
+        <div wfd-id="1">
+          <br style='color: black; font-family: "times new roman";' />
+        </div>
+      </div>
+      <div style="text-align: right;" wfd-id="1"><br /></div
+    ></span>
+  </div>
+  <div class="separator" style="clear: both; text-align: left;" wfd-id="11">
+    <br />
+  </div>
+</div>
+<div wfd-id="0">
+  <div class="separator" style="clear: both;" wfd-id="11"><br /></div>
+</div>
+<div class="separator" style="clear: both; text-align: right;" wfd-id="11">
+  <br />
+</div>
+<div
+  class="separator"
+  style="clear: both; text-align: right;"
+  wfd-id="11"
+></div>
+<div wfd-id="0">
+  <br />
+  <div class="separator" style="clear: both; text-align: left;" wfd-id="3">
+    <br />
+  </div>
+  <br />
+  <div class="separator" style="clear: both;" wfd-id="11"><br /></div>
+  <div class="separator" style="clear: both;" wfd-id="11"><br /></div>
+</div>
